@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\OWNER\source\repos\ISaIPLab2\Source.cpp(9,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\OWNER\source\repos\ISaIPLab2\Source.cpp(24,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ISaIPLab2.vcxproj -> C:\Users\OWNER\source\repos\ISaIPLab2\x64\Debug\ISaIPLab2.exe
